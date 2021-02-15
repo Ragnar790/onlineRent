@@ -1,0 +1,2 @@
+# onlineRent
+Online renting platform is an app where users can give items for rent per day wise costing to earn money.  - We allow users to create / edit / delete their profile. - Users can add item for rent by mention item (name, rent price, manufacture date,  actual cost of the price ) - User can add / edit / delete items - Items can be edited / deleted when it's free and not taken out by someone for rent  This is only the API which will do the above defined operation.
